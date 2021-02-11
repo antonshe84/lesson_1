@@ -5,6 +5,7 @@
 
 """
 
+# number  = int(input("Введите число процентов от 1 до 20: "))
 for number in range(1, 21):
     if number == 1:
         print(number, 'процент')
